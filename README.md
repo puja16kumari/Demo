@@ -1,2 +1,2 @@
 # Demo
-This the first demoRepo
+This the first demoRepository for JavaScript
